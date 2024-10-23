@@ -10,4 +10,15 @@
     "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, bun.lockb"
   },
   "explorer.autoReveal": "focusNoScroll",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "eslint.validate": [
+    "javascript",
+    "typescript",
+    "javascriptreact",
+    "typescriptreact"
+  ]
 }
