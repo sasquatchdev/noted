@@ -1,0 +1,17 @@
+{
+  "type": "document",
+  "uuid": "b1b1b1b1-b1b1-b1b1-b1b1-b1b1b1b1b1b1",
+  "content": [
+    {
+      "type": "heading",
+      "uuid": "a1a1a1a1-a1a1-a1a1-a1a1-a1a1a1a1a1a1",
+      "level": 1,
+      "content": "Document.json"
+    },
+    {
+      "type": "paragraph",
+      "uuid": "c1c1c1c1-c1c1-c1c1-c1c1-c1c1c1c1c1c1",
+      "content": "This is a JSON file that represents a document."
+    }
+  ]
+}
